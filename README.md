@@ -15,7 +15,16 @@ DreamCatcher 是一款基于 iOS 平台的智能梦境记录与分析应用。�
 *   **📮 梦境明信片**：生成精美的梦境明信片，支持高清分享到社交媒体。
 *   **🏷️ 智能标签**：支持手动或自动管理梦境标签（如美梦、噩梦、预知梦等）。
 
-## 🛠️ 技术栈
+## � 界面预览
+
+| 主页 (录音中) | 梦境分析与绘图 | 历史日历 |
+|:---:|:---:|:---:|
+| <img src="screenshots/home_view.png" width="200" alt="Home View"/> | <img src="screenshots/result_view.png" width="200" alt="Result View"/> | <img src="screenshots/calendar_view.png" width="200" alt="Calendar View"/> |
+| *极简星空录音界面* | *AI 生成梦境画作与深度解析* | *月视图回顾梦境旅程* |
+
+> *注：请将截图放入 `screenshots` 文件夹并命名为 `home_view.png`, `result_view.png`, `calendar_view.png`，或者直接替换上述链接。*
+
+## �🛠️ 技术栈
 
 *   **平台**：iOS 17.0+
 *   **开发语言**：Swift 5.9
